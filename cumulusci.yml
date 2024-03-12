@@ -2,8 +2,9 @@ minimum_cumulusci_version: '3.84.3'
 project:
     name: Food-Bank
     package:
-        name: Food-Bank
-        api_version: '59.0'
+         name: Food-Bank
+         namespace: mynamespace23
+         api_version: '59.0'
     git:
         default_branch: 'main'
     source_format: sfdx
