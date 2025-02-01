@@ -3,7 +3,7 @@ project:
     name: Food-Bank
     package:
          name: Food-Bank
-         namespace: mynamespace23
+         namespace: namespace25
          api_version: '59.0'
     git:
         default_branch: 'main'
